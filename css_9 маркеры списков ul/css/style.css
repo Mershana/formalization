@@ -1,0 +1,14 @@
+/* Значение square позволяет сделать маркеры в виде квадратиков:
+ul{
+	list-style-type: square;
+} */
+
+/* Значение circle позволяет сделать маркеры в виде кружков:
+ul{
+	list-style-type: circle;
+} */
+
+/* Значение none убирает маркеры совсем:
+ul{
+	list-style-type: none;
+} */

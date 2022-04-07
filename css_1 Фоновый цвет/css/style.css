@@ -1,0 +1,23 @@
+/* width:100рх ширина
+	height:100px высота
+	background-color: blue устанавливаем синий цвет фона */
+/* #elem {
+	width: 100px;  
+	height: 100px;
+	color: white;
+	background-color: blue; 
+} */
+
+
+/* 1.ширина 170
+		2. высота 100
+		3. цвет текста белый
+		4. текст по центру
+		5. уста-ем мяты цвет фона */
+/* #elem{
+	width: 170px;
+	height: 100px;
+	color: white;
+	text-align: center;
+	background-color:lightgreen;
+} */

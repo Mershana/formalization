@@ -1,0 +1,17 @@
+/* #elem{
+	border-left: 2px solid orange;
+	border-top: 2px solid blue;
+	border-right: 2px solid green;
+	border-bottom: 2px solid red;
+	width: 200px;
+	height: 150px;
+} */
+
+#elem{
+	border-left: 2px solid red;
+	border-top: 1px solid blue;
+	border-right: 2px dotted green ;
+	border-bottom: 1px solid blue;
+	width: 200px;
+	height: 150px;
+}

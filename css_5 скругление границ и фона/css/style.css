@@ -1,0 +1,29 @@
+
+
+
+/* 				скругление уголков блоку, задав ему скругление в 10px:
+ #elem{
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 20px;
+
+} */
+
+
+/* 				свойство скругляет не только уголки не границы, но и фона: */
+/* #elem{
+	border-radius: 20px;
+	width: 90px;
+	height: 90px;
+	background-color: green;
+} */
+
+
+/* 					Сругление в половину ширины и высоты сделает круг: */
+/* #elem{
+	width: 160px;
+	height: 160px;
+	border-radius: 80px;
+	border: 1px solid green;
+} */

@@ -1,0 +1,23 @@
+/* #elem{
+	border: 3px solid red;
+	width: 200px;
+	height: 150px;
+} */
+
+/* #elem{
+	border: 2px dotted blue;
+	width: 200px;
+	height: 150px;
+} */
+
+/* #elem	{
+	border: 2px dashed green;
+	width: 200px;
+	height: 150px;
+} */
+
+#elem	{
+	border: 2px double orange;
+	width: 200px;
+	height: 150px;
+}

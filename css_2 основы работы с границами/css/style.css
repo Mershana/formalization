@@ -1,0 +1,38 @@
+
+
+/* 				Значение solid - сплошная линия
+#elem{
+	border-width: 3px;
+	border-style: solid;
+	border-color: blue;
+	width: 200px;
+	height: 150px;
+} */
+
+/* 				Значение dotted - линия в виде точек:
+#elem{
+	border-width: 3px;
+	border-style: dotted ;
+	border-color: red;
+	width: 200px;
+	height: 150px; */
+
+
+/* 				Значение dashed - линия в виде тире:
+	#elem{
+		border-width: 2px;
+		border-style: dashed ;
+		border-color: orange;
+		width: 200px;
+		height: 150px;
+	} */
+
+
+/* 				Значение double - двойная линия:	
+	#elem{
+		border-width: 5px;
+		border-style: double ;
+		border-color: blue;
+		width: 200px;
+		height: 150px;
+	} */

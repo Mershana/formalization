@@ -1,0 +1,36 @@
+
+/* Значение lower-roman делает вместо обычных цифр римские:
+ol{
+	list-style-type: lower-roman;
+} */
+
+/* Значение lower-alpha делает нумерацию маленькими латинскими буквами:
+ol{
+	list-style-type: lower-alpha;
+} */
+
+
+/* 
+Значение lower-greek делает нумерацию маленькими греческими буквами:
+ol{
+	list-style-type: lower-greek;
+} */
+
+
+
+/* Значение upper-alpha делает нумерацию большими латинскими буквами:
+ol{
+	list-style-type: upper-alpha;
+} */
+
+
+/* Значение decimal-leading-zero делает нумерацию в виде чисел, но нулем впереди для цифр меньше десяти:
+ol {
+	list-style-type: decimal-leading-zero;
+} */
+
+
+/* Значение upper-roman делает заглавные римские цифры:
+ol {
+	list-style-type: upper-roman;
+} */
